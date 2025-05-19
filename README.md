@@ -17,7 +17,7 @@ We use the **Appliances Energy Prediction Data Set** from the [UCI Machine Learn
 ---
 
 ## 📦 Project Structure
-
+```
 energy-prediction/
 │
 ├── app.py # Flask API application
@@ -28,8 +28,7 @@ energy-prediction/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
----
-
+```
 ## 🚀 Setup Instructions
 
 ### 1. Clone the repository
