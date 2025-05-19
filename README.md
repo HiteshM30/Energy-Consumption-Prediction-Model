@@ -186,15 +186,3 @@ python send_request.py
 - Input Features: 31
 - Target: Energy consumed by appliances (in Wh)
 
----
-
-## 📝 License
-
-This project is open-source and free to use under the MIT License.
-s
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/energy-prediction.git
-cd energy-prediction
